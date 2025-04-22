@@ -1,0 +1,2 @@
+C:/dart_programming/code_dart/flutter_natcha/android/app/.cxx/Debug/1j5h395e/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/dart_programming/code_dart/flutter_natcha/android/app/.cxx/Debug/1j5h395e/armeabi-v7a/CMakeFiles/rebuild_cache.dir
